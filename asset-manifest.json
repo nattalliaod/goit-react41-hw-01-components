@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nattalliaod/goit-react41-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/nattalliaod/goit-react41-hw-01-components/static/js/main.52f78bf8.js",
-    "static/js/787.d12f628a.chunk.js": "/nattalliaod/goit-react41-hw-01-components/static/js/787.d12f628a.chunk.js",
-    "index.html": "/nattalliaod/goit-react41-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/nattalliaod/goit-react41-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.52f78bf8.js.map": "/nattalliaod/goit-react41-hw-01-components/static/js/main.52f78bf8.js.map",
-    "787.d12f628a.chunk.js.map": "/nattalliaod/goit-react41-hw-01-components/static/js/787.d12f628a.chunk.js.map"
+    "main.css": "/goit-react41-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react41-hw-01-components/static/js/main.a669fcc4.js",
+    "static/js/787.d12f628a.chunk.js": "/goit-react41-hw-01-components/static/js/787.d12f628a.chunk.js",
+    "index.html": "/goit-react41-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/goit-react41-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.a669fcc4.js.map": "/goit-react41-hw-01-components/static/js/main.a669fcc4.js.map",
+    "787.d12f628a.chunk.js.map": "/goit-react41-hw-01-components/static/js/787.d12f628a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.52f78bf8.js"
+    "static/js/main.a669fcc4.js"
   ]
 }
