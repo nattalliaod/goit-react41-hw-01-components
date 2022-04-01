@@ -6,17 +6,7 @@ export const Status = styled.span`
   height: 15px;
   margin: 0 15px;
   border-radius: 50%;
-  background-color: ${({ statusFriend }) => {
-   
-    switch (statusFriend) {
-      case true:
-        return 'green';
-      case false:
-        return 'red';
-      default:
-        return 
-    }
-  }};
+  background-color: ${p => p.isOnline ? 'green' : 'red'};
 `;
 
 export const Avatar = styled.img`
